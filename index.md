@@ -14,4 +14,6 @@ for(int i; i<x i++){
 ```
 ##### LIST #####
 - [x] Comleted
+- [ ] For whtarewer reason adding more list points
+- [x] hope this helps
 - [ ] Not comleted
