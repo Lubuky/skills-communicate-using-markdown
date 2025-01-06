@@ -1,5 +1,5 @@
-# Hello, this is H1 header#
-## This one is smaller##
+# Hello, this is H1 header #
+## This one is smaller ##
 
 ##### Very little #####
 ##### IMAGE #####
@@ -12,3 +12,6 @@ for(int i; i<x i++){
   Sysem.Out.Println(x);
 }
 ```
+##### LIST #####
+- [x] Comleted
+- [ ] Not comleted
