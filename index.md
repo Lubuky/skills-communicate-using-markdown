@@ -10,7 +10,6 @@
 var myVar = "Hello, world!";
 ```
 ##### LIST #####
-- [x] Comleted
-- [ ] For whtarewer reason adding more list points
-- [x] hope this helps
-- [ ] Not comleted
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
